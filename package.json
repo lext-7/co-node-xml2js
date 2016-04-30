@@ -1,5 +1,5 @@
 {
-  "name": "co-node-xml2js",
+  "name": "co-xml2js",
   "version": "1.0.0",
   "description": "node-xml2js with co",
   "keywords": [

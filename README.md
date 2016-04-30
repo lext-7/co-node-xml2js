@@ -9,7 +9,7 @@ Usage
 install from npm
 
 ```
-npm install co-node-xml2js
+npm install co-xml2js
 ```
 
 ```javascript
