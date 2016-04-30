@@ -6,7 +6,11 @@ co-node-xml2js
 
 Usage
 =====
+install from npm
 
+```
+npm install co-node-xml2js
+```
 
 ```javascript
 import xml2js from "xml2js";
