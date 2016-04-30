@@ -1,0 +1,29 @@
+{
+  "name": "co-node-xml2js",
+  "version": "1.0.0",
+  "description": "node-xml2js with co",
+  "keywords": [
+    "co-node-xml2js",
+    "xml2js",
+    "co"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "author": {
+    "name": "lext",
+    "email": "lext.nobody@outlook.com",
+    "url": "http://lext-7.github.io/me/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lext-7/co-node-xml2js.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.4.16"
+  },
+  "bugs": {
+    "url": "https://github.com/lext-7/co-node-xml2js/issues",
+    "email": "lext.nobody@outlook.com"
+  }
+}
